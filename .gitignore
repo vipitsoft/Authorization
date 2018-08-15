@@ -1,0 +1,9 @@
+/.vs
+/Authorization/obj
+/Authorization/bin
+/DAL/obj
+/DAL/bin
+/Models/obj
+/Models/bin
+/Services/obj
+/Services/bin
